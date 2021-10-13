@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Thomas C. Downes (@tomdownes1)  (President of R Software Consulting 123) 
-- 👀 I’m interested in App Development, Ayn Rand, Libertarianism, scuba diving & playing piano. 
-- 🌱 I’m currently learning C++
+- 👋 Hi, R Software Consulting 123 is owned by Thomas C. Downes (@tomdownes1) 
 - 💞️ I’m looking to collaborate on App Development  
 - 📫 How to reach me:  tomdownes1@gmail.com, RSoftwareConsulting123@gmail.com 
 
